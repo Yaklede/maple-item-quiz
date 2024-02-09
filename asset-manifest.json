@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.636153e5.css",
-    "main.js": "/static/js/main.120c6b40.js",
+    "main.js": "/static/js/main.1e1d570f.js",
     "static/media/도깨비방망이.png": "/static/media/도깨비방망이.f4509232c88ab36858cd.png",
     "static/media/mapleLogo.png": "/static/media/mapleLogo.5a90cc199721131fe42e.png",
     "static/media/드래곤퍼플슬레브.png": "/static/media/드래곤퍼플슬레브.91d76fa66229b519b081.png",
@@ -35,10 +35,10 @@
     "static/media/우드완드.png": "/static/media/우드완드.715a239c5ee076289eaf.png",
     "index.html": "/index.html",
     "main.636153e5.css.map": "/static/css/main.636153e5.css.map",
-    "main.120c6b40.js.map": "/static/js/main.120c6b40.js.map"
+    "main.1e1d570f.js.map": "/static/js/main.1e1d570f.js.map"
   },
   "entrypoints": [
     "static/css/main.636153e5.css",
-    "static/js/main.120c6b40.js"
+    "static/js/main.1e1d570f.js"
   ]
 }
