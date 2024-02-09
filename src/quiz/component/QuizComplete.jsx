@@ -52,7 +52,7 @@ export default function QuizComplete() {
                 <button
                     onClick={() => {
                         quizStore.resetCount();
-                        history("/");
+                        history("/maple-item-quiz");
                     }}
                     className="bg-orange-500 text-white px-8 py-4 rounded-md hover:bg-orange-700 focus:outline-none focus:shadow-outline-orange"
                 >
