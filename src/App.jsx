@@ -5,7 +5,7 @@ import QuizComplete from "./quiz/component/QuizComplete";
 
 function App() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <div className="min-h-screen">
                 <div
                     className="bg-gradient-to-br from-orange-400 to-orange-600 h-screen flex items-center justify-center">
