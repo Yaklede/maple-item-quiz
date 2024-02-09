@@ -10,7 +10,7 @@ function App() {
                 <div
                     className="bg-gradient-to-br from-orange-400 to-orange-600 h-screen flex items-center justify-center">
                     <Routes>
-                        <Route path="/" element={<Main/>}/>
+                        <Route path="/maple-item-quiz" element={<Main/>}/>
                         <Route path="/quiz" element={<QuizPage/>}/>
                         <Route path="/result" element={<QuizComplete/>}/>
                     </Routes>
